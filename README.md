@@ -1,2 +1,2 @@
 # kubernetes-cmd
-记录个人使用，和收集的一些kubernetes，脚本配置等资源
+记录个人使用Kubernetes的一些脚本配置等资源
